@@ -58,7 +58,7 @@ sections:
       - content/pages/blog/sustainability-at-its-purest.md
   - type: CtaSection
     variant: variant-b
-    colors: colors-e
+    colors: colors-g
     width: wide
     height: auto
     alignHoriz: center
