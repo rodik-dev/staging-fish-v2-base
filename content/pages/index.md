@@ -23,6 +23,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+        icon: github
       - type: Button
         label: Learn More
         url: 'https://www.stackbit.com/'
