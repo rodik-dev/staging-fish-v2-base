@@ -219,7 +219,7 @@ function heroContent(props) {
             {props.badge && <Badge {...props.badge} className="sb-badge inline-block mb-4 text-xs" data-sb-field-path=".badge" />}
             {props.title && (
                 <h2 className="text-4xl tracking-tight sm:text-5xl mb-6" data-sb-field-path=".title">
-                    <InlineMarkdown>{props.title}</InlineMarkdown>
+                    <InlineMarkdown>YO::{props.title}</InlineMarkdown>
                 </h2>
             )}
             {props.text && (
