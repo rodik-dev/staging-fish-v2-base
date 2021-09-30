@@ -7,7 +7,7 @@ import Action from '../Action';
 import InlineMarkdown from '../InlineMarkdown';
 
 export default function HeroSection(props) {
-    return <div>YO - New Compontent</div>;
+    return <div>YO - New Component</div>;
     const width = props.width || 'wide';
     switch (width) {
         case 'wide':
